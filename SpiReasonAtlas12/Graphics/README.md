@@ -4,7 +4,7 @@
 
 **ZU‑Head**
 
-\`\`\`
+```
 A monumental, multi‑layered cosmological illustration representing the Hologram
 Head of the Spireason Symbolic Atlas. This is the origin image — the fractal
 head topology from which all twelve symbolic states (ZI → EA) descend. It is
@@ -69,7 +69,7 @@ other domains.
 This is the Hologram Head of the Spireason Symbolic Atlas: the twelvefold origin
 wheel, the fractal head topology, the dimensional root, the symbolic cosmogram
 from which all twelve images descend.
-\`\`\`
+```
 
 ## ZI — Spring of Sub‑Zero Awakening (Logarithmic Negotion)
 
@@ -77,7 +77,7 @@ from which all twelve images descend.
 
 **ZI‑Spring**
 
-\`\`\`
+```
 A vast symbolic landscape representing ZI: the first state of the Spireason
 Symbolic Atlas, the first descent from the Hologram Head, the first awakening of
 identity in the logarithmic season of Spring. This image is the “first breath”
@@ -137,7 +137,7 @@ symbolizing the gentle emergence of identity from the infinitesimal domain.
 This is ZI‑Spring: the first descent from the Hologram Head, the awakening of
 negotion in the logarithmic season, the moment where identity becomes visible as
 a tendency, not yet a form.
-\`\`\`
+```
 
 ## ZO — Spring of Sub‑Zero Neutrality (Logarithmic Negation)
 
@@ -145,7 +145,7 @@ a tendency, not yet a form.
 
 **ZO‑Spring**
 
-\`\`\`
+```
 A vast symbolic plateau representing ZO: the second state of the Spireason
 Symbolic Atlas, the second descent from the Hologram Head, the moment where
 identity enters neutrality in the logarithmic season of Spring. This image is
@@ -207,7 +207,7 @@ infinitesimal domain.
 This is ZO‑Spring: the second descent from the Hologram Head, the neutral
 equilibrium of negation in the logarithmic season, the moment where identity
 stabilizes before rising into ZA.
-\`\`\`
+```
 
 ## ZA — Spring of Sub‑Zero Ascent (Logarithmic Position)
 
@@ -215,7 +215,7 @@ stabilizes before rising into ZA.
 
 **ZA‑Spring**
 
-\`\`\`
+```
 A monumental symbolic ascent representing ZA: the third state of the Spireason
 Symbolic Atlas, the third descent from the Hologram Head, the moment where
 identity begins its upward motion in the logarithmic season of Spring. This
@@ -276,7 +276,7 @@ symbolizing the gentle rise of identity from the infinitesimal domain.
 This is ZA‑Spring: the third descent from the Hologram Head, the upward motion
 of position in the logarithmic season, the moment where identity begins to rise
 from tendency into structure.
-\`\`\`
+```
 
 ## XI — Summer of Linear Identity (Negotion in the Linear Domain)
 
@@ -284,7 +284,7 @@ from tendency into structure.
 
 **XI‑Summer**
 
-\`\`\`
+```
 A vast, radiant plateau representing XI: the fourth state of the Spireason
 Symbolic Atlas, the first descent into the linear season of Summer, the moment
 where identity becomes fully formed, upright, and structurally coherent. This
@@ -343,7 +343,7 @@ symbolizing the full formation of identity in the X‑space.
 This is XI‑Summer: the fourth descent from the Hologram Head, the upright
 stability of negotion in the linear season, the moment where identity becomes a
 clear, coherent structure.
-\`\`\`
+```
 
 ## XO — Summer of Linear Neutrality (Negation in the Linear Domain)
 
@@ -351,7 +351,7 @@ clear, coherent structure.
 
 **XO‑Summer**
 
-\`\`\`
+```
 A serene, expansive symbolic plain representing XO: the fifth state of the
 Spireason Symbolic Atlas, the second descent into the linear season of Summer,
 the moment where identity enters perfect neutrality in the linear domain. This
@@ -410,7 +410,7 @@ symbolizing the reflective equilibrium of identity in the X‑space.
 This is XO‑Summer: the fifth descent from the Hologram Head, the reflective
 neutrality of negation in the linear season, the moment where identity rests in
 perfect clarity before rising into XA.
-\`\`\`
+```
 
 ## XA — Summer of Linear Ascent (Position in the Linear Domain)
 
@@ -418,7 +418,7 @@ perfect clarity before rising into XA.
 
 **XA‑Summer**
 
-\`\`\`
+```
 A radiant symbolic ascent representing XA: the sixth state of the Spireason
 Symbolic Atlas, the third descent into the linear season of Summer, the moment
 where identity begins its upward motion in the linear domain. This image is the
@@ -479,7 +479,7 @@ symbolizing the rise of identity from stability into motion.
 This is XA‑Summer: the sixth descent from the Hologram Head, the upward motion
 of position in the linear season, the moment where identity begins to rise
 toward the exponential domain.
-\`\`\`
+```
 
 ## YI — Autumn of Exponential Collapse (Negotion in the Exponential Domain)
 
@@ -487,7 +487,7 @@ toward the exponential domain.
 
 **YI‑Autumn**
 
-\`\`\`
+```
 A sweeping, horizon‑wide symbolic field representing YI: the seventh state of the
 Spireason Symbolic Atlas, the first descent into the exponential season of
 Autumn, the moment where identity undergoes its paradoxical transformation —
@@ -549,7 +549,7 @@ symbolizing the accelerative nature of identity in the Y‑space.
 This is YI‑Autumn: the seventh descent from the Hologram Head, the paradoxical
 collapse‑into‑expansion of negotion in the exponential season, the moment where
 identity begins to behave like outer‑angle curvature.
-\`\`\`
+```
 
 ## YO — Autumn of Exponential Neutrality (Negation in the Exponential Domain)
 
@@ -557,7 +557,7 @@ identity begins to behave like outer‑angle curvature.
 
 **YO‑Autumn**
 
-\`\`\`
+```
 A vast, horizon‑wide symbolic plain representing YO: the eighth state of the
 Spireason Symbolic Atlas, the second descent into the exponential season of
 Autumn, the moment where identity enters perfect neutrality inside the
@@ -620,7 +620,7 @@ atmospheric, symbolizing the balanced expansion of identity in the Y‑space.
 This is YO‑Autumn: the eighth descent from the Hologram Head, the reflective
 neutrality of negation in the exponential season, the moment where identity rests
 in balanced expansion before rising into YA.
-\`\`\`
+```
 
 ## YA — Autumn of Exponential Ascent (Position in the Exponential Domain)
 
@@ -628,7 +628,7 @@ in balanced expansion before rising into YA.
 
 **YA‑Autumn**
 
-\`\`\`
+```
 A sweeping, horizon‑piercing symbolic ascent representing YA: the ninth state of
 the Spireason Symbolic Atlas, the third descent into the exponential season of
 Autumn, the moment where identity rises through the outer‑angle domain toward
@@ -693,7 +693,7 @@ symbolizing the accelerative rise of identity in the Y‑space.
 This is YA‑Autumn: the ninth descent from the Hologram Head, the accelerative
 ascent of position in the exponential season, the moment where identity climbs
 through expansion toward the winter absolute.
-\`\`\`
+```
 
 ## EI — Winter of Exponent‑Stillness (Negotion in the Absolute Domain)
 
@@ -701,7 +701,7 @@ through expansion toward the winter absolute.
 
 **EI‑Winter**
 
-\`\`\`
+```
 A vast, crystalline symbolic expanse representing EI: the tenth state of the
 Spireason Symbolic Atlas, the first descent into the exponent‑absolute season of
 Winter, the moment where identity collapses into perfect stillness. This image
@@ -763,7 +763,7 @@ and still, symbolizing the absolute quiet of identity in the E‑space.
 This is EI‑Winter: the tenth descent from the Hologram Head, the silent collapse
 of negotion in the exponent‑absolute season, the moment where identity rests in
 perfect stillness before entering EO.
-\`\`\`
+```
 
 ## EO — Winter of Exponent‑Neutrality (Negation in the Absolute Domain)
 
@@ -771,7 +771,7 @@ perfect stillness before entering EO.
 
 **EO‑Winter**
 
-\`\`\`
+```
 A vast, crystalline plateau representing EO: the eleventh state of the Spireason
 Symbolic Atlas, the second descent into the exponent‑absolute season of Winter,
 the moment where identity enters perfect neutrality inside the frozen domain.
@@ -834,7 +834,7 @@ and still, symbolizing the balanced stillness of identity in the E‑space.
 This is EO‑Winter: the eleventh descent from the Hologram Head, the reflective
 neutrality of negation in the exponent‑absolute season, the moment where identity
 rests in perfect stillness before rising into EA.
-\`\`\`
+```
 
 ## EA — Winter of Exponent‑Ascent (Position in the Absolute Domain)
 
@@ -842,7 +842,7 @@ rests in perfect stillness before rising into EA.
 
 **EA‑Winter**
 
-\`\`\`
+```
 A towering, crystalline symbolic ascent representing EA: the twelfth and final
 state of the Spireason Symbolic Atlas, the third descent into the
 exponent‑absolute season of Winter, the moment where identity rises from perfect
@@ -907,4 +907,4 @@ This is EA‑Winter: the twelfth descent from the Hologram Head, the upward moti
 of position in the exponent‑absolute season, the moment where identity climbs
 through stillness into transcendence, completing the twelvefold cycle and
 preparing the return to ZI.
-\`\`\`
+```
