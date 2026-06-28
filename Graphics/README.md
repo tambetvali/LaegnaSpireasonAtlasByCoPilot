@@ -81,6 +81,8 @@ introduction to both the Spireason Symbolic Atlas and the Laegna Atlas.
 
 **Cover Image — “The Dual Atlas: Spireason & Laegna”**
 
+Filename: **Atlas-Cover**
+
 ```
 A monumental, unified cosmogram representing **both Atlases together**:
 the **Spireason Atlas** (ZXYE seasonal wheel, metaphysical arcs, symbolic
