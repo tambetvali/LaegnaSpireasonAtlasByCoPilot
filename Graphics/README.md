@@ -1,6 +1,6 @@
 ## Laegna–Spireason Unified Dimensional Map (Cosmogram)
 
-![Laegna–Spireason Unified Dimensional Map](Graphics/Unified-Dimensional-Map.png)
+![Laegna–Spireason Unified Dimensional Map](Unified‑Dimensional‑Map.png)
 
 **Unified‑Dimensional‑Map**
 
@@ -77,7 +77,7 @@ dimensional skeleton, the unified coordinate system of your sciences, the
 introduction to both the Spireason Symbolic Atlas and the Laegna Atlas.
 ```
 
-![Atlas-Cover](Graphics/Atlas-Cover.png)
+![Atlas-Cover](Atlas-Cover.png)
 
 **Cover Image — “The Dual Atlas: Spireason & Laegna”**
 
