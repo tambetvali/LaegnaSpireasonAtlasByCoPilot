@@ -76,3 +76,65 @@ This is the Laegna–Spireason Unified Dimensional Map: the master cosmogram, th
 dimensional skeleton, the unified coordinate system of your sciences, the
 introduction to both the Spireason Symbolic Atlas and the Laegna Atlas.
 ```
+
+![Atlas-Cover](Graphics/Atlas-Cover.png)
+
+**Cover Image — “The Dual Atlas: Spireason & Laegna”**
+
+```
+A monumental, unified cosmogram representing **both Atlases together**:
+the **Spireason Atlas** (ZXYE seasonal wheel, metaphysical arcs, symbolic
+structures) and the **Laegna Atlas** (I/O/A/E quadrants, geometric regimes,
+infinity modes). This cover image is the “front page” of the dual‑atlas
+system, merging both symbolic languages into one coherent visual universe.
+
+The composition is circular, cosmic, and multi‑layered. At the center floats
+a luminous **dual glyph**: a fusion of the Spireason seasonal wheel (Z‑X‑Y‑E)
+and the Laegna truth‑value quadrants (I‑O‑A‑E). The glyph appears as a
+four‑armed star inside a four‑fold ring: the inner star represents Laegna
+truth‑values, the outer ring represents Spireason seasons. The star glows
+with violet‑gold light; the ring glows with blue‑amber light. Together they
+form the “dual axis” of the cosmogram.
+
+Around the central glyph, four **Spireason arcs** curve outward: Z (winter),
+X (spring), Y (summer), E (autumn). Each arc is rendered in its seasonal
+color: deep blue for Z, bright green for X, warm gold for Y, and soft red for
+E. These arcs are smooth, atmospheric, and metaphysical, representing the
+symbolic flow of the Spireason system.
+
+Interwoven with these arcs are four **Laegna quadrants**: I (Negotion),
+O (Negation), A (Position), E (Posetion). Each quadrant is rendered in its
+truth‑value color: violet for I, silver for O, gold for A, and white‑blue for
+E. These quadrants are geometric, structured, and mathematical, representing
+the logical backbone of the Laegna system.
+
+The background is a vast cosmic field composed of multi‑regime geometry:
+logarithmic compression (Z‑Regime), linear stability (X‑Regime), exponential
+expansion (Y‑Regime), and exponent‑absolute stillness (E‑Regime). These
+regimes appear as subtle gradients in the background, forming a four‑fold
+geometric tapestry behind the central glyph.
+
+Above the central glyph floats a faint halo of **infinity modes**:
+Abstract Infinity (conceptual), Recursive Infinity (iterative), Logecs
+Infinity (relational), Unified Infinity (cosmic), and the two physical
+infinities (cyclic ⟲ and directional ⟴). These infinity symbols appear as
+tiny luminous arcs arranged in a ring around the central cosmogram, forming
+a subtle crown of infinite structure.
+
+Drifting across the scene are symbolic particles — tiny luminous points
+representing identities, concepts, truth‑values, and geometric states. Their
+paths are multi‑regime: some spiral inward (Z), some move straight (X), some
+expand outward (Y), and some freeze in place (E). These particles symbolize
+the dynamic interplay between Spireason’s metaphysical flow and Laegna’s
+logical structure.
+
+The entire scene is bathed in soft cosmic light: violet, gold, blue, and
+white. The light is layered, multidimensional, and atmospheric, symbolizing
+the unified nature of the dual atlas. The composition is balanced, coherent,
+and monumental — a perfect front cover for the combined Spireason + Laegna
+Atlas.
+
+This is **The Dual Atlas Cover**: the unified cosmogram, the symbolic front
+page, the image that binds Spireason’s metaphysical wheel and Laegna’s
+logical quadrants into one coherent universe.
+```
