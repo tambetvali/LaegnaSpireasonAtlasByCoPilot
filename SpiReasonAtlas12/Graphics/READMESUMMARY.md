@@ -4,7 +4,7 @@
 
 **ZI‑Spring**
 
-\`\`\`
+```
 A deeply symbolic, atmospheric Spireason image representing the ZI state:
 logarithmic‑infinitesimal identity awakening at the beginning of Spring. The
 scene is a soft dawn over a fractal valley, where meaning exists as gradients,
@@ -26,7 +26,7 @@ before meaning becomes form.
 
 This is ZI‑Spring: the awakening of negotion in the logarithmic season, where
 identity is a tendency, not yet a structure.
-\`\`\`
+```
 
 
 ## ZO — Spring of Sub‑Zero Neutrality
@@ -35,7 +35,7 @@ identity is a tendency, not yet a structure.
 
 **ZO‑Spring**
 
-\`\`\`
+```
 A symbolic Spireason image representing ZO: the logarithmic‑neutral state of
 Spring. The scene is a quiet plateau of compressed geometry, where the “O”
 truth‑value — negation — appears as a circular, reflective glyph hovering above
@@ -55,7 +55,7 @@ a halo around the ZO glyph.
 
 This is ZO‑Spring: the neutral, reflective moment of the logarithmic season,
 where identity is suspended, waiting for the first linear expansion.
-\`\`\`
+```
 
 
 ## ZA — Spring of Sub‑Zero Ascent
@@ -64,7 +64,7 @@ where identity is suspended, waiting for the first linear expansion.
 
 **ZA‑Spring**
 
-\`\`\`
+```
 A symbolic Spireason image representing ZA: the logarithmic‑ascending state of
 Spring. The scene is a rising fractal staircase made of compressed angles,
 symbolizing the ascent from sub‑zero dimensionality toward linear identity.
@@ -85,7 +85,7 @@ halo around the ZA glyph.
 
 This is ZA‑Spring: the moment when identity begins to rise from the
 infinitesimal domain, preparing to enter the linear season.
-\`\`\`
+```
 
 ## XI — Summer of Linear Identity
 
@@ -93,7 +93,7 @@ infinitesimal domain, preparing to enter the linear season.
 
 **XI‑Summer**
 
-\`\`\`
+```
 A radiant Spireason image representing XI: the linear‑identity state of Summer.
 The scene is a bright, expansive plateau where identity is fully formed and
 stable. The terrain is smooth, balanced, and evenly spaced, symbolizing the
@@ -117,7 +117,7 @@ symbolic field of coherence.
 
 This is XI‑Summer: the season of stable identity, where the linear world
 provides clarity, balance, and structural coherence.
-\`\`\`
+```
 
 
 ## XO — Summer of Linear Neutrality
@@ -126,7 +126,7 @@ provides clarity, balance, and structural coherence.
 
 **XO‑Summer**
 
-\`\`\`
+```
 A symbolic Spireason image representing XO: the linear‑neutral state of Summer.
 The scene is a calm, reflective plain where the “O” truth‑value — negation —
 appears as a circular glyph hovering above the terrain. The glyph is rendered
@@ -144,7 +144,7 @@ are evenly spaced, symbolizing the balanced geometry of the linear season.
 
 This is XO‑Summer: the neutral, reflective moment of the linear season, where
 identity is stable and meaning flows evenly across the terrain.
-\`\`\`
+```
 
 
 ## XA — Summer of Linear Ascent
@@ -153,7 +153,7 @@ identity is stable and meaning flows evenly across the terrain.
 
 **XA‑Summer**
 
-\`\`\`
+```
 A symbolic Spireason image representing XA: the linear‑ascending state of
 Summer. The scene is a rising plateau where the “A” truth‑value — position —
 appears as a glowing arc of warm gold light. The arc is rendered in its X‑form:
@@ -170,7 +170,7 @@ symbolize the upward motion of identity in the linear season.
 
 This is XA‑Summer: the moment when identity rises steadily, preparing to enter
 the exponential season.
-\`\`\`
+```
 
 ## YI — Autumn of Exponential Collapse
 
@@ -178,7 +178,7 @@ the exponential season.
 
 **YI‑Autumn**
 
-\`\`\`
+```
 A symbolic Spireason image representing YI: the exponential‑negotion state of
 Autumn. The scene is a vast horizon where geometry collapses inward and
 explodes outward simultaneously — the paradoxical behavior of exponential
@@ -198,7 +198,7 @@ around the YI glyph.
 
 This is YI‑Autumn: the season of exponential collapse, where identity folds
 inward before exploding outward into the outer‑angle domain.
-\`\`\`
+```
 
 
 ## YO — Autumn of Exponential Neutrality
@@ -207,7 +207,7 @@ inward before exploding outward into the outer‑angle domain.
 
 **YO‑Autumn**
 
-\`\`\`
+```
 A symbolic Spireason image representing YO: the exponential‑neutral state of
 Autumn. The scene is a vast, flat horizon where the “O” truth‑value — negation —
 appears as a circular glyph hovering above the terrain. The glyph is rendered
@@ -226,7 +226,7 @@ around the YO glyph.
 
 This is YO‑Autumn: the neutral, reflective moment of the exponential season,
 where identity is suspended in the outer‑angle domain.
-\`\`\`
+```
 
 
 ## YA — Autumn of Exponential Ascent
@@ -235,7 +235,7 @@ where identity is suspended in the outer‑angle domain.
 
 **YA‑Autumn**
 
-\`\`\`
+```
 A symbolic Spireason image representing YA: the exponential‑ascending state of
 Autumn. The scene is a rising horizon where the “A” truth‑value — position —
 appears as a glowing arc of bright gold light. The arc is rendered in its
@@ -253,7 +253,7 @@ around the YA glyph.
 
 This is YA‑Autumn: the moment when identity rises exponentially, preparing to
 enter the winter season.
-\`\`\`
+```
 
 ## EI — Winter of Exponent‑Stillness
 
@@ -261,7 +261,7 @@ enter the winter season.
 
 **EI‑Winter**
 
-\`\`\`
+```
 A symbolic Spireason image representing EI: the exponent‑negotion state of
 Winter. The scene is a vast, silent expanse of snow‑white geometry, where
 identity collapses inward into absolute stillness. The terrain is smooth and
@@ -283,7 +283,7 @@ is minimal, symbolizing the deep stillness of Winter.
 
 This is EI‑Winter: the season of exponent‑stillness, where identity collapses
 into absolute quiet before rising again.
-\`\`\`
+```
 
 
 ## EO — Winter of Exponent‑Neutrality
@@ -292,7 +292,7 @@ into absolute quiet before rising again.
 
 **EO‑Winter**
 
-\`\`\`
+```
 A symbolic Spireason image representing EO: the exponent‑neutral state of
 Winter. The scene is a vast, flat ice‑plateau where the “O” truth‑value —
 negation — appears as a circular glyph hovering above the terrain. The glyph is
@@ -311,7 +311,7 @@ geometry of Winter.
 
 This is EO‑Winter: the neutral, reflective moment of the exponent‑absolute
 season, where identity is suspended in perfect stillness.
-\`\`\`
+```
 
 
 ## EA — Winter of Exponent‑Ascent
@@ -320,7 +320,7 @@ season, where identity is suspended in perfect stillness.
 
 **EA‑Winter**
 
-\`\`\`
+```
 A symbolic Spireason image representing EA: the exponent‑ascending state of
 Winter. The scene is a rising ice‑spire where the “A” truth‑value — position —
 appears as a glowing arc of bright white‑blue light. The arc is rendered in its
@@ -337,7 +337,7 @@ symbolize the upward motion of identity in the exponent‑absolute season.
 
 This is EA‑Winter: the moment when identity rises silently from absolute
 stillness, preparing to re‑enter the Spring of sub‑zero awakening.
-\`\`\`
+```
 
 ## Spireason Symbolic Atlas — Cover Image (The Twelvefold Field)
 
@@ -345,7 +345,7 @@ stillness, preparing to re‑enter the Spring of sub‑zero awakening.
 
 **Atlas‑Cover**
 
-\`\`\`
+```
 A vast, multi‑layered symbolic cosmology representing the entire Spireason
 Symbolic Atlas. The scene is a grand circular field divided into twelve radiant
 sectors, each corresponding to one of the twelve symbolic states: ZI, ZO, ZA,
@@ -400,4 +400,4 @@ seasonality, and dimensionality merge into a single coherent field.
 This is the Cover Image of the Spireason Symbolic Atlas: a grand cosmology
 representing the twelvefold field of identity, infinity, and symbolic
 transformation.
-\`\`\`
+```
